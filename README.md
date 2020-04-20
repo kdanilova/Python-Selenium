@@ -1,2 +1,4 @@
 # Python-Selenium
-tasks fro stepik
+tasks from stepik
+https://stepik.org/course/575/syllabus
+
